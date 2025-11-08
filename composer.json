@@ -1,4 +1,8 @@
 {
+    "name": "bartracz/koi-cards",
+    "description": "Plugin WordPress koi-cards",
+    "type": "project",
+    "license": "MIT",
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.89"
     }
