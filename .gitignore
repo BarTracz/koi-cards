@@ -16,6 +16,9 @@
 /readme.html
 /wp-*.php
 /xmlrpc.php
+.php-cs-fixer.cache
+composer.phar
+/vendor/
 
 # Configuration
 wp-config.php
